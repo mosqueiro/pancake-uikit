@@ -8,6 +8,7 @@ const MenuLink: React.FC<AnchorHTMLAttributes<HTMLAnchorElement>> = ({ href, ...
     href?.startsWith("https://exchange.zcore.network") ||
     href?.startsWith("https://app.zcore.network") ||
     href?.startsWith("https://zefi.zcore.network") ||
+    href?.startsWith("https://vaults.zcore.network") ||
     href?.startsWith("/") ||
     href?.startsWith("https://swap.zcore.network");
 
