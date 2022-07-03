@@ -30,3 +30,4 @@ export { default as MediumIcon } from "./Medium";
 export { default as WaveIcon } from "./Wave";
 export { default as BarnIcon } from "./Barn";
 export { default as VaultsIcon } from "./Vaults";
+export { default as VoteIcon } from "./Vote";
